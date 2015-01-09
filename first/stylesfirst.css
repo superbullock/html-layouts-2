@@ -1,0 +1,68 @@
+html, body {
+    height: 100%;
+    body: 100%;
+    margin: 0;
+}
+
+.top {
+    height: 15%;
+    width: 100%;
+    position: relative;
+    top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.box {
+    float: left;
+    height: 100%;
+    width: 31%;
+}
+
+.text {
+    padding: 20px 10px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.big {
+    height: 30%;
+    width: 97%;
+    margin: 10px 10px;
+}
+
+.big_red {
+    height: 100%;
+    width: 33%;
+}
+
+.bottom {
+    height: 15%;
+    width: 97%;
+    margin: 20px 10px;
+}
+
+.bottom_red {
+    height: 100%;
+    width: 30%;
+    float: right;
+}
+
+.bottom_black {
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.red {
+    background: #E10000;
+}
+
+.blue {
+    background: #428BE5;
+}
+
+.black {
+    background: #4A4A4A;
+}
