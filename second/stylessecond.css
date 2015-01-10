@@ -9,6 +9,7 @@ body {
     background: #D8D8D8;
 }
 
+
 .container {
     height: 90%;
     width: 100%;
@@ -18,43 +19,43 @@ body {
 
 }
 
-.block {
-    background: white;
-    width: 90%;
-    padding: 20px 30px;
-    box-sizing: border-box;
-    overflow: auto;
-    margin: 0 auto;
-}
-
-.top {
-    height: 30%;
-}
-
-
-.button {
-    display: inline-block;
-    background: #428BE5;
-    padding: 10px 30px;
-    color: white;
-    text-align: center;
-    box-sizing: border-box;
-}
-
-    .submit {
-         background: #E10000;
+    .block {
+        background: white;
+        width: 90%;
+        padding: 20px 30px;
+        box-sizing: border-box;
+        overflow: auto;
+        margin: 0 auto;
     }
 
+        .top {
+            height: 30%;
+        }
 
-.bottom {
-    height: 51%;
-}
 
-    .image {
-        height: 70%;
-        background: url(http://cdni.wired.co.uk/1920x1280/s_v/Samsung-laptop.jpg);
-        background-size: 100% 100%;
-    }
+            .button {
+                display: inline-block;
+                background: #428BE5;
+                padding: 10px 30px;
+                color: white;
+                text-align: center;
+                box-sizing: border-box;
+            }
+
+            .submit {
+                 background: #E10000;
+            }
+
+
+        .bottom {
+            height: 51%;
+        }
+
+            .image {
+                height: 70%;
+                background: url(http://cdni.wired.co.uk/1920x1280/s_v/Samsung-laptop.jpg);
+                background-size: 100% 100%;
+            }
 
 
 footer {
